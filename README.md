@@ -6,9 +6,9 @@ Portfolio Assignment
 Instructions to this assignment can be found [here](https://reedws.github.io/IT3049C/coursework/assignments/online-portfolio/).
 
 - [x] update the assignment checks above to the correct link. - Done Automatically
-- [ ] update the assignment checks above to the correct link
-- [ ] fill out the self evaluation and Reflection
-- [ ] submit the repository and the hosted github pages to Canvas
+- [x] update the assignment checks above to the correct link
+- [x] fill out the self evaluation and Reflection
+- [x] submit the repository and the hosted github pages to Canvas
 
 ## Self Grading Guide
 <!--- put an x in each of the completed sections below .. e.g. [x] Task 1 --->
