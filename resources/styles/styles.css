@@ -1,0 +1,65 @@
+/* Reset some default styles for consistency */
+body, h1, h2, p, ul, ol {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set basic styling for the body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  color: #333;
+}
+
+/* Style the container */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the header */
+h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+/* Style the personal background section */
+#personalBackground {
+  margin-top: 20px;
+}
+
+/* Style the headings */
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+/* Style paragraphs */
+p {
+  margin-bottom: 20px;
+}
+
+/* Style lists */
+ul, ol {
+  margin-left: 20px;
+}
+
+/* Style list items */
+li {
+  margin-bottom: 5px;
+}
+
+/* Style images */
+img {
+  display: block;
+  margin: 0 auto;
+  border: 2px solid #333;
+}
+
+/* Add space between sections */
+div[id^="experience"], div[id^="programmingLanguage"], div[id^="achievements"], div[id^="Games"] {
+  margin-top: 30px;
+}
